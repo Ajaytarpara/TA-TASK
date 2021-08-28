@@ -1,2 +1,6 @@
-# Estimatick Node
+TA-Task
+
+open Terminal
+
+``` git clone 
 
